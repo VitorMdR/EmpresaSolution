@@ -1,0 +1,12 @@
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\03-09\EmpresaSolution\Empresa.Domain\obj\Debug\net5.0\Empresa.Domain.csproj.AssemblyReference.cache
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\03-09\EmpresaSolution\Empresa.Domain\obj\Debug\net5.0\Empresa.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\03-09\EmpresaSolution\Empresa.Domain\obj\Debug\net5.0\Empresa.Domain.AssemblyInfoInputs.cache
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\03-09\EmpresaSolution\Empresa.Domain\obj\Debug\net5.0\Empresa.Domain.AssemblyInfo.cs
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\03-09\EmpresaSolution\Empresa.Domain\obj\Debug\net5.0\Empresa.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\03-09\EmpresaSolution\Empresa.Domain\bin\Debug\net5.0\Empresa.Domain.deps.json
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\03-09\EmpresaSolution\Empresa.Domain\bin\Debug\net5.0\Empresa.Domain.dll
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\03-09\EmpresaSolution\Empresa.Domain\bin\Debug\net5.0\Empresa.Domain.pdb
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\03-09\EmpresaSolution\Empresa.Domain\obj\Debug\net5.0\Empresa.Domain.dll
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\03-09\EmpresaSolution\Empresa.Domain\obj\Debug\net5.0\refint\Empresa.Domain.dll
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\03-09\EmpresaSolution\Empresa.Domain\obj\Debug\net5.0\Empresa.Domain.pdb
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\03-09\EmpresaSolution\Empresa.Domain\obj\Debug\net5.0\ref\Empresa.Domain.dll

@@ -1,0 +1,15 @@
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\03-09\EmpresaSolution\Empresa.Infra.Data\obj\Debug\net5.0\Empresa.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\03-09\EmpresaSolution\Empresa.Infra.Data\obj\Debug\net5.0\Empresa.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\03-09\EmpresaSolution\Empresa.Infra.Data\obj\Debug\net5.0\Empresa.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\03-09\EmpresaSolution\Empresa.Infra.Data\obj\Debug\net5.0\Empresa.Infra.Data.AssemblyInfo.cs
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\03-09\EmpresaSolution\Empresa.Infra.Data\obj\Debug\net5.0\Empresa.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\03-09\EmpresaSolution\Empresa.Infra.Data\bin\Debug\net5.0\Empresa.Infra.Data.deps.json
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\03-09\EmpresaSolution\Empresa.Infra.Data\bin\Debug\net5.0\Empresa.Infra.Data.dll
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\03-09\EmpresaSolution\Empresa.Infra.Data\bin\Debug\net5.0\Empresa.Infra.Data.pdb
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\03-09\EmpresaSolution\Empresa.Infra.Data\bin\Debug\net5.0\Empresa.Domain.dll
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\03-09\EmpresaSolution\Empresa.Infra.Data\bin\Debug\net5.0\Empresa.Domain.pdb
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\03-09\EmpresaSolution\Empresa.Infra.Data\obj\Debug\net5.0\Empresa.Infra.Data.csproj.CopyComplete
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\03-09\EmpresaSolution\Empresa.Infra.Data\obj\Debug\net5.0\Empresa.Infra.Data.dll
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\03-09\EmpresaSolution\Empresa.Infra.Data\obj\Debug\net5.0\refint\Empresa.Infra.Data.dll
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\03-09\EmpresaSolution\Empresa.Infra.Data\obj\Debug\net5.0\Empresa.Infra.Data.pdb
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\03-09\EmpresaSolution\Empresa.Infra.Data\obj\Debug\net5.0\ref\Empresa.Infra.Data.dll
